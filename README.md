@@ -1,6 +1,6 @@
 # Predicting Loan Default Risk
 
-<img src="images/stock_market.jpg?raw=true"/>
+<img src="images/loan.png?raw=true"/>
 
 Predicting loan default risk is a critical part of money lending because lenders must know whether giving out a loan will result in profit or loss. Generally, loans are profitable and generate revenue for banks because of interest. But, sometimes a borrower may default which results in a loss of money for lending banks. So, it is important that the lender is able to estimate the risk of a borrower being defaulted before borrowing him/her the money.
 
